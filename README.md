@@ -5,8 +5,6 @@ Chrome Extension Development boilerplate
 Incorporates a draggable floating window, icons on mouse hover, along with their respective pop-up windows. Customization is also feasible.
 I've encapsulated a proprietary messaging framework
 
-This project draws inspiration from https://github.com/mubaidr/vite-vue3-chrome-extension-v3
-
 [中文文档](README_ZH.md)
 
 # Getting Started
@@ -32,6 +30,10 @@ npm run build
 [MIT](LICENSE)
 
 ## Credits
-The majority of this project is built upon: https://github.com/antfu/vitesse-webext
+The majority of this project is built upon: 
+
+https://github.com/mubaidr/vite-vue3-chrome-extension-v3
+
+https://github.com/antfu/vitesse-webext
 
 
